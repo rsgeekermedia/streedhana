@@ -1,0 +1,6 @@
+{
+  "name": "StreeDhana",
+  "description": "Women-First Mutual Fund Distribution Platform built for Bharat.",
+  "permissions": [],
+  "capabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

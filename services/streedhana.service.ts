@@ -19,7 +19,7 @@ export interface SakhiPayload {
 
 export const createSakhiApplication = async (payload: SakhiPayload) => {
   const response = await api.post(
-    `${process.env.NEXT_PUBLIC_BACKEND_URL}/api/streedhana/sakhi-details`,
+    "/api/streedhana/sakhi-details",
     payload
   );
 
